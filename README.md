@@ -84,7 +84,7 @@ This project showcases my ability to:
 ---
 
 ##  Next Steps
-- Build an interactive Power BI dashboard based on this analysis
+- Building an interactive Power BI dashboard based on this analysis
 - Perform deeper profitability analysis
 - Add customer segmentation insights
 
